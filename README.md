@@ -1,2 +1,2 @@
-# Codeforces_Submission
-My submission on codeforces
+# Codeforces_Submission_CPP
+My submissions on Codeforces in C, C++
